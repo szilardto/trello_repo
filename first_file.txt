@@ -1,4 +1,8 @@
 This is a trello test
 
 created a branch
+<<<<<<< HEAD
 new
+=======
+newsad
+>>>>>>> 9612ec1... commit f2
